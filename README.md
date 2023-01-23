@@ -4,7 +4,6 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/geniusrabbit/goexp)](https://goreportcard.com/report/github.com/geniusrabbit/goexp)
 [![Coverage Status](https://coveralls.io/repos/github/geniusrabbit/goexp/badge.svg?branch=main)](https://coveralls.io/github/geniusrabbit/goexp?branch=main)
 [![Testing Status](https://github.com/geniusrabbit/goexp/workflows/Tests/badge.svg)](https://github.com/geniusrabbit/goexp/actions?workflow=Tests)
-[![Publish Docker Status](https://github.com/geniusrabbit/goexp/workflows/Publish/badge.svg)](https://github.com/geniusrabbit/goexp/actions?workflow=Publish)
 
 The simple builder structures of expression
 
